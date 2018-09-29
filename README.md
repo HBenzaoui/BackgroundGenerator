@@ -1,0 +1,1 @@
+This is a HTML page to generate a gradiant background using two inputs (Left/Right)
