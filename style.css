@@ -1,0 +1,27 @@
+body{
+    font: 'Releway', sans-serif;
+    color: rgba(115, 115, 115, 5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    top: 15%;
+    background: linear-gradient(to right, #ffffff, #b9b9b9);
+}
+
+h1{
+    font: 600 3.5em 'Releway', sans-serif;
+    color: rgba(115,115, 115, 10);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    width: 100 
+}
+
+h3{
+    font: 900 1em 'Releway', sans-serif;
+    color: rgba(115,115, 115, 5);
+    text-align: center;
+    text-transform: lowercase;
+    letter-spacing: 0.01em;
+    
+}
